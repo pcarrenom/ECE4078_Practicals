@@ -1,15 +1,16 @@
 # ECE4078 Practical Week 04
 
-This week we will cover...
+This week we will cover localisation and mapping
 
 ## Coding Exercises
 
+- This week you are asked to add mapping into our EKF locatisation algorithm. To do so, you have to complete the missing functions in the SLAM class provided in the notebook.
 
 ## Submission
 
-- You should submit a copy of this week's notebook (with your solutions) Friday 12:00am at the latest. Submissions will be done through Moodle.
+- You should submit your solution before Monday August 31st 11:55pm. Submissions will be done through Moodle.
 - Your submision must follow this naming convention: [Student_ID]_Practical04.ipynb 
 
 
 ## Marking:
-- All programming exercises will be graded automatically. Please make sure to not change the names of the functions you are asked to complete. Verify that each function returns the expected value type and format.
+- All programming exercises will be graded automatically. Please make sure that the test function ``run_slam(.)`` return the expected variables
