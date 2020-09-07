@@ -11,8 +11,8 @@ You will be asked to implement a convulutional network for the classification of
 ## Submission
 
 - You should submit a copy of this week's notebook (with your solution) and your trained network before Monday Sept. 14th 11:55pm. Submissions will be done through Moodle.
-- Instructions of how to save a trained network are provided in the notebook
-- Your submision must follow this naming convention: [Student_ID]_Practical06.ipynb and [Student_ID]_ConvNet.pt. If you do not respect this convention, your submission will not be marked.
+- Instructions on how to save a trained network are provided in the notebook
+- Your submision must follow these naming conventions: [Student_ID]_Practical06.ipynb and [Student_ID]_ConvNet.pt. If you do not respect this convention, your submission will not be marked.
 - **Please make sure to set the ``RUN_TRAINING`` and ``FLAG_GPU`` flags to ``False`` before submitting your solution.**
 
 
