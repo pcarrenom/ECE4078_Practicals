@@ -1,0 +1,3 @@
+[submodule "Week10/Support/robotics-toolbox-python"]
+	path = Week10/Support/robotics-toolbox-python
+	url = https://github.com/petercorke/robotics-toolbox-python.git
